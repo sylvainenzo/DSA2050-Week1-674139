@@ -1,0 +1,7 @@
+- **Business problem:** We don't know which regions or sales channels bring in the most money, so it's hard to plan where to spend on marketing and stock next quarter.
+- **Stakeholder:** The manager who oversees both in-store and online sales.
+- **Decision:** Where to focus marketing and stock — which regions and which channels.
+- **Unit of analysis:** One row = one order (a customer can buy more than one item in an order).
+- **Three KPIs:** Total Revenue, Number of Orders, Average Order Value.
+- **Initial findings:** Over 3 months, total revenue was about 3.2 million KES from 300 orders, averaging about 10,688 KES per order. All four regions earned roughly the same amount, with Kisumu slightly ahead. In-store sales made clearly more money than online sales.
+- **Limitation:** We only have 3 months of data and no cost figures, so we can see revenue patterns but not actual profit. Three months also isn't enough to say anything is a real seasonal trend.
